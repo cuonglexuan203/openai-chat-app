@@ -2,7 +2,7 @@
 	<hr/>
 	<p>This is an application that can help you use the ChatGPT engine (OPENAI) for free through the OpenAI API.</p>
 	<br>
-	<p>The only thing you need is a free account, which you can register for <a href="register-link-here">here</a>.</p>
+	<p>The only thing you need is a free account, which you can register in my app.</p>
 	<br>
 	<h3>Step-by-Step Guide to Running the Application:</h3>
 	<p>1. Open your terminal and navigate to the project directory.</p>
