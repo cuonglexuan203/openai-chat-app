@@ -1,13 +1,13 @@
 <h1>CHATGPT APP</h1>
-<hr/>
-
-<h3> This is a application help you can use the chatgpt engine (OPENAI) free through openai api</p>
-<br>
-<p> The only thing need is a free account by register here</p>
-<br>
-<h3>Step by step to run my application</h3>
-<p>Open your terminal at the project directory and then split it into two tabs</p>
-<p>A tab you cd to the client with command "cd client"</p>
-<p>Another tab you cd to the server with command "cd server"</p>
-<p>Then run command "npm run dev" in both two tabs</p>
-<p>Done!. Feel free to use it</p>
+	<hr/>
+	<p>This is an application that can help you use the ChatGPT engine (OPENAI) for free through the OpenAI API.</p>
+	<br>
+	<p>The only thing you need is a free account, which you can register for <a href="register-link-here">here</a>.</p>
+	<br>
+	<h3>Step-by-Step Guide to Running the Application:</h3>
+	<p>1. Open your terminal and navigate to the project directory.</p>
+	<p>2. Split your terminal into two tabs.</p>
+	<p>3. In one tab, navigate to the client directory with the command "cd client".</p>
+	<p>4. In the other tab, navigate to the server directory with the command "cd server".</p>
+	<p>5. In both tabs, run the command "npm run dev".</p>
+	<p>6. You're done! Feel free to use the application.</p>
